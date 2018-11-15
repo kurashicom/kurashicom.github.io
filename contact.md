@@ -3,6 +3,6 @@
 現在は、Wantedlyをご連絡いただく窓口にしています。
 以下リンク先の「話を聞きに行きたい」ボタンからご連絡ください。
 
-https://www.wantedly.com/projects/184742
+[![wantedly](https://user-images.githubusercontent.com/29177665/48536901-3ba27680-e8f3-11e8-8962-e733e29be2c3.png
+https://user-images.githubusercontent.com/29177665/48536901-3ba27680-e8f3-11e8-8962-e733e29be2c3.png)](https://www.wantedly.com/projects/184742)
 
-<iframe frameborder='0' height='305px' name='wantedly_project_widget_184742' scrolling='no' src='https://platform.wantedly.com/projects/184742' style='border: none; max-width: 100%; min-width: 240px; width: 540px;'></iframe>
