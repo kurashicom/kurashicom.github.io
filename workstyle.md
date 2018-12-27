@@ -62,5 +62,5 @@
 
 ![社食2](https://user-images.githubusercontent.com/43428459/47759739-4efaf280-dcf4-11e8-8624-a02a630a88f9.jpg)
 
-
+### [他のページを見る](./index.md)
 
