@@ -4,6 +4,8 @@
 
 ![テクノロジーグループ](https://s3-ap-northeast-1.amazonaws.com/kurashicom-images/shop/2019-01-22/609670d46169f5b409a65b386ba5e982.png)
 
+<p style="text-align: right">写真　佐々木孝憲</p>
+
 # チーム構成
 <p>
 エンジニア3~4人のチームが2つあり、デザイナーとプロダクトオーナーがチーム横断的に関わっています。
